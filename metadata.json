@@ -1,0 +1,6 @@
+{
+  "name": "Babylon Gold & Jewelry Inventory System",
+  "description": "نظام جرد مخصص لمحلات بابل للذهب والمجوهرات يعتمد على الذكاء الاصطناعي لاستخراج الأرقام التسلسلية وتصنيف نوع المنتج تلقائياً وتصدير البيانات لجداول Excel",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

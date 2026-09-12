@@ -1,0 +1,15 @@
+{
+  "items": [],
+  "users": [
+    { "id": "u1", "username": "أحمد جابر", "pin": "1111", "fullName": "أحمد جابر", "role": "staff" },
+    { "id": "u2", "username": "يوسف بابل", "pin": "2222", "fullName": "يوسف بابل", "role": "staff" },
+    { "id": "u3", "username": "سارة الهاشمي", "pin": "3333", "fullName": "سارة الهاشمي", "role": "staff" },
+    { "id": "u4", "username": "فاطمة الزهراء", "pin": "4444", "fullName": "فاطمة الزهراء", "role": "staff" },
+    { "id": "u5", "username": "علي البابلي", "pin": "5555", "fullName": "علي البابلي", "role": "staff" },
+    { "id": "u6", "username": "زينب علي", "pin": "6666", "fullName": "زينب علي", "role": "staff" },
+    { "id": "u7", "username": "مصطفى حسن", "pin": "7777", "fullName": "مصطفى حسن", "role": "staff" },
+    { "id": "u8", "username": "رانيا محمد", "pin": "8888", "fullName": "رانيا محمد", "role": "staff" },
+    { "id": "u9", "username": "خالد الوليد", "pin": "9999", "fullName": "خالد الوليد", "role": "staff" },
+    { "id": "u10", "username": "عمر الفاروق", "pin": "1234", "fullName": "عمر الفاروق", "role": "admin" }
+  ]
+}
